@@ -38,11 +38,3 @@ img {
   height: 4vh;
   margin-left: 1vh;
 }
-
-video {
-  display: none;
-  float: right;
-  margin: 5vh;
-  width: 25vh;
-  height: auto;
-}
