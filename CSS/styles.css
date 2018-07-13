@@ -18,8 +18,8 @@ h1.jumbotron {
   color: #ecc679;
 }
 
-.whiteNames {
-  color: white;
+.blackNames {
+  color: Black;
 }
 
 #username {
@@ -35,6 +35,6 @@ h1.jumbotron {
 
 img {
   width: auto;;
-  height: 4vh;
+  height: 3vh;
   margin-left: 1vh;
 }
