@@ -1,0 +1,48 @@
+body {
+  background-color: #E8E8E8;
+}
+
+h1.jumbotron {
+  background-color: pink;
+  margin-top: 0;
+}
+
+#about {
+  padding-left: 3vh;
+  margin-top: .5vh;
+  padding-bottom: 200vh;
+  background-color: #a3c2b0;
+}
+
+.aboutHeaders {
+  color: #ecc679;
+}
+
+.whiteNames {
+  color: white;
+}
+
+#username {
+  color: blue;
+}
+
+#numberList {
+  color: blue;
+  font-family: fantasy;
+  margin-top: 5vh;
+  font-size: large;
+}
+
+img {
+  width: auto;;
+  height: 4vh;
+  margin-left: 1vh;
+}
+
+video {
+  display: none;
+  float: right;
+  margin: 5vh;
+  width: 25vh;
+  height: auto;
+}
