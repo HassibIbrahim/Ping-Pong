@@ -3,14 +3,22 @@ body {
 }
 
 h1.jumbotron {
-  background-color: pink;
+  background-color:Magenta ;
   margin-top: 0;
+}
+.row-test{
+  display: flex;
+}
+.test{
+  flex: 1;
 }
 
 #about {
+  /* height: auto; */
+  flex: 1;
   padding-left: 3vh;
   margin-top: .5vh;
-  padding-bottom: 200vh;
+  /* padding-bottom: 500vh; */
   background-color: #A058FC;
 }
 
@@ -22,13 +30,17 @@ h1.jumbotron {
   color: Black;
 }
 
+.whiteNames{
+  color: White;
+}
+
 #username {
-  color: blue;
+  color: C46B41;
 }
 
 #numberList {
   color: blue;
-  font-family: fantasy;
+  font-family: Courier;
   margin-top: 5vh;
   font-size: large;
 }
